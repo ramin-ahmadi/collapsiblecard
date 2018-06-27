@@ -1,0 +1,17 @@
+<mat-card class="example-card">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title>Card title</mat-card-title>
+    <mat-card-subtitle>Card subtitle</mat-card-subtitle>
+  </mat-card-header>
+  <img mat-card-image src="https://material.angular.io/assets/img/examples/shiba2.jpg" alt="Photo of a Shiba Inu">
+  <mat-card-content *ngIf="!collapsed">
+    <p>material design card <code class="docs-markdown-code">&lt;mat-card&gt;</code></p>
+    <p><a href="https://material.angular.io/components/card/examples">Material design card </a></p>
+     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+  </mat-card-content>
+  <mat-card-actions>
+     <button mat-raised-button (click)="collapsed=true"  color="primary">Collapse card content </button>
+     <button mat-raised-button (click)="collapsed=false" color="accent">Uncollapse card content</button>
+  </mat-card-actions>
+</mat-card>
