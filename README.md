@@ -1,6 +1,8 @@
 # collapsible card example
 
-This app was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1. and Angular 5 using Material design cards
+This app was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1. and Angular 5 using Material design cards.
+
+Interested to learn how to make your own, head over to  [my website](http://raminahmadi.com/how-to-make-a-collapsible-card-with-angular-and-material-design/)
 
 ## Install
 
