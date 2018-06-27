@@ -1,10 +1,11 @@
 # collapsible card example
 
-This app was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+This app was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1. and Angular 5 using Material design cards
 
 ## Install
 
-download or fork my repo and then CD to project location.
+Download or fork my repo and then CD to project location.
+
 Run `npm install` 
 
 ## Development server
@@ -20,8 +21,10 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Author
 
 [Ramin Ahmadi](http://raminahmadi.com).
+
 [Twitter](https://twitter.com/ramin_ahmadi).
 
+[Stackoverflow](https://stackoverflow.com/users/2105359/ramin-ahmadi).
 
 ## Further help
 
